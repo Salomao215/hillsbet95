@@ -21,7 +21,7 @@ background
 ""
 baseURI
 : 
-"https://demo.quantumgaming.cloud/admin/dashboard"
+"https://salomao215.github.io/hillsbet95/"
 bgColor
 : 
 ""
@@ -30,10 +30,10 @@ childElementCount
 7
 childNodes
 : 
-NodeList(15) [text, div#https://demo.quantumgaming.cloud/admin/.base_url, text, svg.d-none, text, div.dropdown.position-fixed.bottom-0.end-0.mb-3.me-3.bd-mode-toggle, text, svg.d-none, text, header.navbar.sticky-top.bg-dark.flex-md-nowrap.p-0.shadow, text, div.container-fluid, text, script, text]
+NodeList(15) [text, div#https://salomao215.github.io/hillsbet95/.base_url, text, svg.d-none, text, div.dropdown.position-fixed.bottom-0.end-0.mb-3.me-3.bd-mode-toggle, text, svg.d-none, text, header.navbar.sticky-top.bg-dark.flex-md-nowrap.p-0.shadow, text, div.container-fluid, text, script, text]
 children
 : 
-HTMLCollection(7) [div#https://demo.quantumgaming.cloud/admin/.base_url, svg.d-none, div.dropdown.position-fixed.bottom-0.end-0.mb-3.me-3.bd-mode-toggle, svg.d-none, header.navbar.sticky-top.bg-dark.flex-md-nowrap.p-0.shadow, div.container-fluid, script, https://demo.quantumgaming.cloud/admin/: div#https://demo.quantumgaming.cloud/admin/.base_url]
+HTMLCollection(7) [div#https://salomao215.github.io/hillsbet95.cloud/admin/.base_url, svg.d-none, div.dropdown.position-fixed.bottom-0.end-0.mb-3.me-3.bd-mode-toggle, svg.d-none, header.navbar.sticky-top.bg-dark.flex-md-nowrap.p-0.shadow, div.container-fluid, script, https://salomao215.github.io/hillsbet95.cloud/admin/: div#https://salomao215.github.io/hillsbet95.cloud/admin/.base_url]
 classList
 : 
 DOMTokenList [value: '']
@@ -75,7 +75,7 @@ firstChild
 text
 firstElementChild
 : 
-div#https://demo.quantumgaming.cloud/admin/.base_url
+div#https://salomao215.github.io/hillsbet95.cloud/admin/.base_url
 hidden
 : 
 false
@@ -87,7 +87,7 @@ inert
 false
 innerHTML
 : 
-"\n  <div id=\"https://demo.quantumgaming.cloud/ad
+"\n  <div id=\"https://salomao215.github.io/hillsbet95.cloud/ad
 innerText
 : 
 "Toggle theme\nVISÃO GERAL\nDashboard\nUsuários\nFINANCEIRO\nResumo geral\nSaques\nSaques Afiliados\nDepósitos\nMovimentações\nGATEWAY DE PAGAMENTO\nEzzebank\nSuitpay\nOUTROS\nConfiguração API de Jogos\nJogos\nTema\nBanners\nConfigurações\nConfigurações de Afiliados\nAdministradores\nDesconectar\nEstatísticas\nLUCRO 24H\nR$\nLUCRO 7D\nR$\nLUCRO 30D\nR$\nLUCRO TOTAL\nR$ -\nDEPÓSITOS NAS ÚLTIMAS 24H\nR$\nDEPÓSITOS NOS ÚLTIMAS 7D\nR$\nDEPÓSITOS NO 30D\nR$\nDEPOSITO TOTAL\nR$ -\nPIX'S GERADOS 24H\n0\nPIX'S PAGOS 24H\n0\nPIX'S GERADOS 24H\n0\nPIX'S GERADOS 30D\n2\nPIX'S GERADOS\n3\nPIX'S PAGOS\n2\nCADASTROS 24H\n0\nCADASTROS 7D\n1\nCADASTROS 30D\n4\nCADASTROS TOTAIS\n9"
@@ -141,7 +141,7 @@ offsetWidth
 794
 outerHTML
 : 
-"<body>\n  <div id=\"https://demo.quantumgaming.cl
+"<body>\n  <div id=\"https://salomao215.github.io/hillsbet95.cl
 outerText
 : 
 "Toggle theme\nVISÃO GERAL\nDashboard\nUsuários\nFINANCEIRO\nResumo geral\nSaques\nSaques Afiliados\nDepósitos\nMovimentações\nGATEWAY DE PAGAMENTO\nEzzebank\nSuitpay\nOUTROS\nConfiguração API de Jogos\nJogos\nTema\nBanners\nConfigurações\nConfigurações de Afiliados\nAdministradores\nDesconectar\nEstatísticas\nLUCRO 24H\nR$\nLUCRO 7D\nR$\nLUCRO 30D\nR$\nLUCRO TOTAL\nR$ -\nDEPÓSITOS NAS ÚLTIMAS 24H\nR$\nDEPÓSITOS NOS ÚLTIMAS 7D\nR$\nDEPÓSITOS NO 30D\nR$\nDEPOSITO TOTAL\nR$ -\nPIX'S GERADOS 24H\n0\nPIX'S PAGOS 24H\n0\nPIX'S GERADOS 24H\n0\nPIX'S GERADOS 30D\n2\nPIX'S GERADOS\n3\nPIX'S PAGOS\n2\nCADASTROS 24H\n0\nCADASTROS 7D\n1\nCADASTROS 30D\n4\nCADASTROS TOTAIS\n9"
